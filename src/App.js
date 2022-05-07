@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
       <h1>App组件</h1>
-      <Component numbers={[1,2,3,4,5,6,7,8,9,0]}/>
+      <Component numbers={[1,2,3,4,5,6,7,8,9]}/>
     </div>
   );
 }
