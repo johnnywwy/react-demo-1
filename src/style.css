@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  background: grey;
+  width: 80vw;
+  margin: 10px auto;
+  text-align: center;
+  padding: 10px;
+}
+.Son {
+  background: yellow;
+  padding: 10px;
+}
+
+.Grandson {
+  background: green;
+  padding: 10px;
+  color: white;
+}
